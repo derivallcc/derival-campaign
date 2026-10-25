@@ -13,3 +13,5 @@ ngay,ct,phien_ban,loai,file,bytes,sha256,duration_s,link
 2026-10-24,CT-0003,v6,frames,media/CT-0003/CT-0003_v6_frames.jpg,110339,0da0419839918b9e,,https://raw.githubusercontent.com/derivallcc/derival-campaign/main/media/CT-0003/CT-0003_v6_frames.jpg
 2026-10-25,CT-0004,v2,video,media/CT-0004/CT-0004_v2.mp4,3295373,cc34c716f0ed271f,43.0,https://raw.githubusercontent.com/derivallcc/derival-campaign/main/media/CT-0004/CT-0004_v2.mp4
 2026-10-25,CT-0004,v2,frames,media/CT-0004/CT-0004_v2_frames.jpg,102788,ab1f366f61b2dd6e,,https://raw.githubusercontent.com/derivallcc/derival-campaign/main/media/CT-0004/CT-0004_v2_frames.jpg
+2026-10-25,CT-0005,v2,video,media/CT-0005/CT-0005_v2.mp4,4097002,407e30c3bd0d4932,43.8,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0005/CT-0005_v2.mp4
+2026-10-25,CT-0005,v2,frames,media/CT-0005/CT-0005_v2_frames.jpg,108816,fe00ccc90c16808c,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0005/CT-0005_v2_frames.jpg
