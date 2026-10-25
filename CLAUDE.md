@@ -1,6 +1,6 @@
-# derival-campaign — luật cho Claude
+# derival-media — luật cho Claude
 
-Repo **PUBLIC** chỉ chứa sản phẩm (mp4, ảnh) của studio Derival. Mọi luật nội dung, công cụ, chiến lược ở repo
+Repo **PUBLIC** lưu ảnh/video/nội dung Claude tạo ra cho studio Derival (đổi tên từ `derival-campaign` ngày 25/10/2026). Studio đọc `index.csv` và `media/*/*_frames.jpg` ở đây để chống lặp nội dung. Mọi luật nội dung, công cụ, chiến lược ở repo
 `derivallcc/derival-studio` (đọc `CLAUDE.md` ở đó trước khi làm nội dung).
 
 - Ghi vào đây **chỉ** bằng `scripts/archive_run.py` của studio (nó cập nhật `media/<CT>/` và `index.csv` cùng lúc).
