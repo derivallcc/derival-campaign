@@ -25,3 +25,6 @@ ngay,ct,phien_ban,loai,file,bytes,sha256,duration_s,link
 2026-10-25,CT-0006,v2,video,media/CT-0006/CT-0006_v2.mp4,5663052,34bc0decd89a9a76,43.6,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0006/CT-0006_v2.mp4
 2026-10-25,CT-0006,v2,frames,media/CT-0006/CT-0006_v2_frames.jpg,104043,a64eb10b2e38dba5,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0006/CT-0006_v2_frames.jpg
 2026-10-25,CT-0006,v2,post,media/CT-0006/CT-0006_post.md,4804,d052521ef7ec8d2a,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0006/CT-0006_post.md
+2026-10-25,CT-0007,v1,video,media/CT-0007/CT-0007_v1.mp4,5622237,780bfa563628c363,42.0,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0007/CT-0007_v1.mp4
+2026-10-25,CT-0007,v1,frames,media/CT-0007/CT-0007_v1_frames.jpg,104612,ed59bdc3823e2478,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0007/CT-0007_v1_frames.jpg
+2026-10-25,CT-0007,v1,post,media/CT-0007/CT-0007_post.md,5196,5db955124f083537,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0007/CT-0007_post.md
