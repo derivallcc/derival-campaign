@@ -4,7 +4,9 @@ Repo **PUBLIC** lưu ảnh/video/nội dung Claude tạo ra cho studio Derival (
 `derivallcc/derival-studio` (đọc `CLAUDE.md` ở đó trước khi làm nội dung).
 
 - Ghi vào đây **chỉ** bằng `scripts/archive_run.py` của studio (nó cập nhật `media/<CT>/` và `index.csv` cùng lúc).
-- Không bao giờ đưa vào: khoá/token, `secrets/`, caption nội bộ, bản tin D-family, điểm barem, ghi chú admin, `post_kit.md`,
+- **Mỗi sản phẩm có đủ thông tin đăng ở đây** (TD-018, 25/10/2026): `media/<CT>/<CT>_post.md` — caption 5 MXH + kênh/nhóm, giờ đăng, ảnh bìa,
+  bình luận ghim, hashtag, câu miễn trừ. Bản tin Telegram gửi link file này. Studio không lưu kết quả.
+- Không bao giờ đưa vào: khoá/token, `secrets/`, bản tin D-family, điểm barem, ghi chú nội bộ (trạng thái chấm, "cần quyết"),
   số tài khoản, lệnh đang mở, dữ liệu cá nhân, file dự án (`projects/`), bản nháp nội bộ không định giao.
 - File ≤ 25 MB. Không sửa hay xoá file cũ đã gửi link (link trong bản tin phải sống); phiên bản mới = file mới `_v<n+1>`.
   Muốn gỡ một video khỏi công khai: hỏi người dùng trước (đã có link trong nhóm và lịch sử git vẫn giữ file).
