@@ -11,6 +11,8 @@ dựng mà **tham chiếu** kho này (`index.csv`, tờ khung hình) để nội
 | `media/<CT-xxxx>/<CT>_<v>.mp4` | Video đã giao (H.264, ≤ 25 MB) |
 | `media/<CT-xxxx>/<CT>_<v>_frames.jpg` | Tờ 8 khung hình để xem nhanh |
 | `media/<CT-xxxx>/<CT>_<v>_cover*.jpg`, `*.png` | Ảnh bìa, carousel, ảnh tĩnh |
+| `media/<CT-xxxx>/<CT>_<v>_script.md` | Kịch bản: lời đọc và chữ trên hình theo cảnh (studio dùng để chống lặp nội dung) |
+| `media/<CT-xxxx>/<CT>_post.md` | Gói đăng bài: caption 5 MXH + kênh/nhóm, giờ đăng, ảnh bìa, bình luận ghim |
 | `index.csv` | Một dòng mỗi file: ngày, mã nội dung, phiên bản, loại, đường dẫn, dung lượng, sha256, thời lượng, link tải trực tiếp |
 
 Link tải trực tiếp một video (không cần đăng nhập):

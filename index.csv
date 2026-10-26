@@ -19,7 +19,7 @@ ngay,ct,phien_ban,loai,file,bytes,sha256,duration_s,link
 2026-10-25,CT-0006,v1,frames,media/CT-0006/CT-0006_v1_frames.jpg,93592,505699e5f10fe835,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0006/CT-0006_v1_frames.jpg
 2026-10-25,CT-0001,,post,media/CT-0001/CT-0001_post.md,5867,160e7aeb33503663,,https://github.com/derivallcc/derival-media/blob/main/media/CT-0001/CT-0001_post.md
 2026-10-25,CT-0002,,post,media/CT-0002/CT-0002_post.md,7337,30533f0bd3105f83,,https://github.com/derivallcc/derival-media/blob/main/media/CT-0002/CT-0002_post.md
-2026-10-25,CT-0003,,post,media/CT-0003/CT-0003_post.md,8176,c59ed3619fab65bc,,https://github.com/derivallcc/derival-media/blob/main/media/CT-0003/CT-0003_post.md
+2026-10-26,CT-0003,v7,post,media/CT-0003/CT-0003_post.md,8116,18e6ee4cfcfc0149,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0003/CT-0003_post.md
 2026-10-25,CT-0004,,post,media/CT-0004/CT-0004_post.md,6883,8a2aa69955c9d561,,https://github.com/derivallcc/derival-media/blob/main/media/CT-0004/CT-0004_post.md
 2026-10-25,CT-0005,,post,media/CT-0005/CT-0005_post.md,4674,4a0e510489e00e99,,https://github.com/derivallcc/derival-media/blob/main/media/CT-0005/CT-0005_post.md
 2026-10-25,CT-0006,v2,video,media/CT-0006/CT-0006_v2.mp4,5663052,34bc0decd89a9a76,43.6,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0006/CT-0006_v2.mp4
@@ -36,3 +36,10 @@ ngay,ct,phien_ban,loai,file,bytes,sha256,duration_s,link
 2026-10-26,CT-0009,v1,anh,media/CT-0009/CT-0009_p01.jpg,240270,bfd258c1600ca866,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0009/CT-0009_p01.jpg
 2026-10-26,CT-0009,v1,anh,media/CT-0009/CT-0009_p01.png,694870,0e46376decd36419,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0009/CT-0009_p01.png
 2026-10-26,CT-0009,v1,post,media/CT-0009/CT-0009_post.md,4550,ca5c76e1a1283964,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0009/CT-0009_post.md
+2026-10-26,CT-0001,v2,script,media/CT-0001/CT-0001_v2_script.md,1510,17b60eedee15578f,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0001/CT-0001_v2_script.md
+2026-10-26,CT-0002,v2,script,media/CT-0002/CT-0002_v2_script.md,1796,4be677daade66021,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0002/CT-0002_v2_script.md
+2026-10-26,CT-0003,v7,script,media/CT-0003/CT-0003_v7_script.md,2097,f3cc2ac1f011f9e3,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0003/CT-0003_v7_script.md
+2026-10-26,CT-0004,v2,script,media/CT-0004/CT-0004_v2_script.md,1847,e754586fb493bc8a,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0004/CT-0004_v2_script.md
+2026-10-26,CT-0005,v2,script,media/CT-0005/CT-0005_v2_script.md,2564,5191f55ce0ed5d87,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0005/CT-0005_v2_script.md
+2026-10-26,CT-0006,v2,script,media/CT-0006/CT-0006_v2_script.md,2403,1843e061ac39a675,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0006/CT-0006_v2_script.md
+2026-10-26,CT-0007,v1,script,media/CT-0007/CT-0007_v1_script.md,2537,e86aebb3d3ea56ad,,https://raw.githubusercontent.com/derivallcc/derival-media/main/media/CT-0007/CT-0007_v1_script.md
